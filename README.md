@@ -1,4 +1,6 @@
-<!-- Please update value in the {}  -->
+# ⚠️ ARCHIVED PROJECT NOTICE
+This repository has been archived and is no longer maintained. 
+
 
 <h1 align="center">Recipe Page</h1>
 
